@@ -11,7 +11,7 @@
     ['L6',  50, new Date('2015-05-15T23:59:59'), '<a href="L6.html">L6: Arrays</a>'],
     ['L7',  50, new Date('2015-05-22T23:59:59'), '<a href="L7.html">L7: Binary Search</a>'],
     ['E3', 200, new Date('2015-06-01T23:59:59'), '<a href="E3.html">E3: Exam 3</a>'],
-    ['L8',  30, new Date('2015-06-05T23:59:59'), '<a href="L8.html">L8: Application</a>'],
+    ['L8',  30, new Date('2015-06-05T23:59:59'), '<a href="L8.html">L8: Sorting</a>'],
     ['L9',  60, new Date('2015-06-15T23:59:59'), '<a href="L9.html">L9: Application</a>'],
     ['F' , 400, new Date('2015-06-17T12:00:00'), 'Final Exam' ]
   ];
